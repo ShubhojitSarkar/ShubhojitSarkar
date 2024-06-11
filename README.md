@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhojitSarkar
-- 👀 I’m interested in working in the field of Data Science
-- 🌱 I’m currently learning the following things:  <br>
+- 👀 I have been working in the field of Data Science for over half a decade in solving complex client business problems in various domains. 
+- 🌱 My current role involves doing the following things:  <br>
         1. Entire architecture of a Data Science project pipeline (Business Use Case Discussion -> Data Extraction -> Data Wrangling -> Model Creation & Tuning -> 
            Going on pilot/demo with the solution -> Calculate benefits -> Model Deployment as a tool -> Maintance). <br>
         2. Various algorithms that are used in Machine Learning, Deep Learning, NLP and CV. <br>
