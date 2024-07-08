@@ -10,7 +10,7 @@
         6. Ways to deploy ML/AI solutions. <br>
         7. Sql and NoSql databases along with techniques to handle Big Data. <br>
 - 📫 You can reach me via the following platforms: <br>
-        1. LinkedIn: https://www.linkedin.com/in/shubhojit-sarkar-432a95204/ <br>
+        1. LinkedIn: [https://www.linkedin.com/in/shubhojit-sarkar-432a95204/](https://www.linkedin.com/in/shubhojitsarkar/) <br>
         2. Email: shubhojitsarkar444@gmail.com <br>
 
 <!---
