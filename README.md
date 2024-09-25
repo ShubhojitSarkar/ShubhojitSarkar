@@ -3,11 +3,11 @@
 - 🌱 My current role involves doing the following things:  <br>
         1. Entire architecture of a Data Science project pipeline (Business Use Case Discussion -> Data Extraction -> Data Wrangling -> Model Creation & Tuning -> 
            Going on pilot/demo with the solution -> Calculate benefits -> Model Deployment as a tool -> Maintance). <br>
-        2. Various algorithms that are used in Machine Learning, Deep Learning, NLP and CV. <br>
+        2. Various algorithms that are used in Machine Learning, Deep Learning, NLP, Gen AI and CV. <br>
         3. Statistics and Mathematics that are required to learn the above techniques. <br>
         4. General techniques in the field of Feature Engineering and Selection. <br>
         5. Programming Languages like Python and R. <br>
-        6. Ways to deploy ML/AI solutions. <br>
+        6. Ways to deploy ML, DL, TIme Series, Gen AI solutions. <br>
         7. Sql and NoSql databases along with techniques to handle Big Data. <br>
 - 📫 You can reach me via the following platforms: <br>
         1. [LinkedIn](https://www.linkedin.com/in/shubhojitsarkar/) <br>
